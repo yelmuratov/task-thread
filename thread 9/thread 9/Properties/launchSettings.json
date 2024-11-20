@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "thread 9": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
